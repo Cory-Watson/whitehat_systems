@@ -1,2 +1,2 @@
 # Whitehat Systems
-# Example web site
+Example web site
